@@ -11,7 +11,7 @@
 using namespace std;
 using namespace k4a;
 using namespace cv;
-// hhh
+
 
 
 class CapOneImg
